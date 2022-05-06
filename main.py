@@ -25,6 +25,11 @@ import file446_1
 import file447
 import file451
 import file453
+import file455
+import file456
+import file457
+import file458
+import file459
 from file212 import math_f
 from file213 import imt_1
 from file214 import str_cost
@@ -36,5 +41,4 @@ from file219 import joseph
 from file221 import coordinates
 
 if __name__ == '__main__':
-    file453.exchange()
-
+    file459.magic_square()
