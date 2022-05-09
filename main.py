@@ -1,5 +1,4 @@
-import file466
+import file4610
 
 if __name__ == '__main__':
-    file466.fill_4()
-
+    file4610.spiral()
