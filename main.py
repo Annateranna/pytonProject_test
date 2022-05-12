@@ -1,4 +1,4 @@
-import file473
+import ekz518
 
 if __name__ == '__main__':
-    file473.exponentiation()
+    ekz518.parallel()
