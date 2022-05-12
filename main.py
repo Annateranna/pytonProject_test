@@ -1,4 +1,4 @@
-import file4610
+import file473
 
 if __name__ == '__main__':
-    file4610.spiral()
+    file473.exponentiation()
