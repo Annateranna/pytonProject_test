@@ -1,4 +1,4 @@
-import ekz518
+import file637
 
 if __name__ == '__main__':
-    ekz518.parallel()
+    file637.threebonacci()
