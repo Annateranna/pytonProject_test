@@ -1,5 +1,4 @@
-import file849
+import file864
 
 if __name__ == '__main__':
-    file849.compare()
-
+    file864.common()
