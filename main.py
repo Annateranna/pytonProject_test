@@ -1,4 +1,4 @@
-import ekz9211
+import file1037
 
 if __name__ == '__main__':
-    ekz9211.online5()
+    file1037.correct()
