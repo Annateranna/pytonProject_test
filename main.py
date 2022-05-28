@@ -1,4 +1,5 @@
-import file1037
+import file10471
 
 if __name__ == '__main__':
-    file1037.correct()
+    file10471.script()
+
