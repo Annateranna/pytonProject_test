@@ -1,5 +1,4 @@
-import file10471
+import file10511
 
 if __name__ == '__main__':
-    file10471.script()
-
+    file10511.dic_students()
