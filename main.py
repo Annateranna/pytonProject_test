@@ -1,4 +1,4 @@
-import file10511
+import ekz127
 
 if __name__ == '__main__':
-    file10511.dic_students()
+    ekz127.ekz()
