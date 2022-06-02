@@ -1,4 +1,4 @@
-import ekz127
+import file1214
 
 if __name__ == '__main__':
-    ekz127.ekz()
+    file1214.lottery()
