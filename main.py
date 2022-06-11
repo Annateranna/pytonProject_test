@@ -1,5 +1,4 @@
-import file14214
+import file1432
 
 if __name__ == '__main__':
-    file14214.turtle1()
-
+    file1432.turtle1()
