@@ -1,4 +1,4 @@
-import file15812
+import file1592
 
 if __name__ == '__main__':
-    file15812
+    file1592
