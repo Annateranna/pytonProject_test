@@ -1,4 +1,4 @@
-import ekz16311
+import file1726
 
 if __name__ == '__main__':
-    ekz16311
+    file1726
